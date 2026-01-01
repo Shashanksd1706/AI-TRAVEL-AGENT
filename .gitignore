@@ -1,0 +1,29 @@
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment & secrets
+.env
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Jupyter / IPython (if you add notebooks later)
+.ipynb_checkpoints/
